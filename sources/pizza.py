@@ -38,7 +38,8 @@ RECIPES = {
         'sauce': 'tomato'
     },
     'pugliese': {
-        'ingredients': {'mozzarella': 4, 'oregano': 2, 'onion': 5, 'mushroom': 2        'price': 11,
+        'ingredients': {'mozzarella': 4, 'oregano': 2, 'onion': 5, 'mushroom': 2        
+        'price': 11,
         'sauce': 'tomato'
     },
 

@@ -45,4 +45,3 @@ class PizzaMaker:
         self._gain += price  # Gain money
         message = self.__apply_sauce(RECIPES[name])
         return True, message
-
